@@ -1,0 +1,3 @@
+[submodule "rundeck-cli"]
+	path = rundeck-cli
+	url = https://github.com/rundeck/rundeck-cli.git
